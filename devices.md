@@ -1,3 +1,4 @@
-@@ -48,7 +48,7 @@
-	- [looking glass]
-	- [leapmotion]
+
+[looking glass] [go →](https://www.leapmotion.com/)
+	
+[leapmotion] [go →](https://lookingglassfactory.com/)
