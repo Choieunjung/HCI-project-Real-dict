@@ -5,11 +5,5 @@ Real-dict
 ### Courses [go →](README1.md)
 ### Tutorials [go →](README2.md)
 ### Needs & Ideas [go →](ideas2.md)
-### Devices [go →](devices.md)
-### Courses [[go →]](README1.md)
-### Tutorials [[go →]](README2.md)
-
-
-### Needs & Ideas DB [[go →]](ideas2.md)
-### ICT Equipment & Devices [[go →]](devices.md)
+### ICT Equipment & Devices [go →](devices.md)
 
