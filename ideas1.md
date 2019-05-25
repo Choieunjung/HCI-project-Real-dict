@@ -1,3 +1,5 @@
+[← go back to the list](https://github.com/Choieunjung/HCI-project-Real-dict/new/master)
+
 ## Introduction
 
 인체와 동물, 공룡에 대하여 공부하고자 할 때, 책에 나와있는 글과 사진 만을 보고 그 모양을 이해하기 어려운 경우가 많다. 이를 해결하기 위해서 3D기기들을 이용하여 실제모양과 유사한 다양한 소재를 관찰과 조립을 통해 재미있는 학습을 가능하게 하는 3D 백과사전인 Real dict를 개발하고자 한다.
